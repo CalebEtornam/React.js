@@ -6,7 +6,7 @@ function Card({title, img, newPrice, prevPrice}){
         <div>
             <div className="card">
             <div className="card-img">
-                <img src={img} alt="shoe"/>
+                <img src={img} alt="shoe" className="shoe-img"/>
             </div>
             <div className="card-details">
                 <h4 className="card-title">{title}</h4>
