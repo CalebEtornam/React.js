@@ -1,0 +1,11 @@
+.sidebar-container{
+    margin-top: 20px;
+    height: 100%;
+    width: 15%;
+    border-right: 2px solid #f7f6f6;
+    margin-left: 100px;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
